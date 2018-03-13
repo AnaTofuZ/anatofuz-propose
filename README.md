@@ -1,3 +1,3 @@
 ## ABOUT
 
-Please propose your proposal
+Please propose your proposal　on this repositoly PR
